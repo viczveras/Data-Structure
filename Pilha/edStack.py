@@ -61,3 +61,6 @@ stack.push(2)
 stack.push(3)
 print(len(stack)) # Deve mostrar 3 
 print(stack)  # Deve mostrar: 3\n2\n1\n
+stack.pop()
+stack.pop()
+print(stack)
